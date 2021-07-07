@@ -1,5 +1,6 @@
 # COVID_contacts
 задача из ННГУ по плюсам
+
 Проект VS назван secondary_contacts и включает в себя 3 основных файла  (infected.h, infected.cpp и main.cpp) а так же 2 тестовых файла (input.txt и  input1.txt).
 
 infected.h
